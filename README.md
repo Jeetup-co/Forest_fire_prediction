@@ -6,7 +6,7 @@ The project covers Exploratory Data Analysis, Feature Engineering, Machine Learn
 
 ## Live Application
 
-**Live Demo:** [Forest-fire-prediction-env.eba-5mbcym8s.ap-southeast-2.elasticbeanstalk.com]
+**Live Demo:** Forest-fire-prediction-env.eba-5mbcym8s.ap-southeast-2.elasticbeanstalk.com
 
 ## Project Overview
 
